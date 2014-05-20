@@ -19,6 +19,17 @@ otherRules = [
   "A developer must protect its own existence as long as such protection does not conflict with the First or Second Law."
   ]
 
+fightClub = [
+  "The first rule of Fight Club is: You do not talk about Fight Club.",
+  "The second rule of Fight Club is: You do not talk about Fight Club.",
+  "Third rule of Fight Club: Someone yells stop, goes limp, taps out, the fight is over.",
+  "Fourth rule: only two guys to a fight.",
+  "Fifth rule: one fight at a time, fellas.",
+  "Sixth rule: no shirts, no shoes.",
+  "Seventh rule: Fights will go on as long as they have to.",
+  "And the eighth and final rule: If this is your first night at Fight Club, you have to fight."
+]
+
 module.exports = (robot) ->
   robot.respond /(what are )?the (three |3 )?(rules|laws)/i, (msg) ->
     text = msg.message.text
@@ -26,4 +37,3 @@ module.exports = (robot) ->
       msg.send otherRules.join('\n')
     else
       msg.send rules.join('\n')
-
