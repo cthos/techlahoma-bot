@@ -37,3 +37,7 @@ module.exports = (robot) ->
       msg.send otherRules.join('\n')
     else
       msg.send rules.join('\n')
+  robot.hear /fight club/i, (msg) ->
+    msg.send "We don't talk about that here."
+  robot.respond /(what are )?the rules of fight club/i, (msg) ->
+    msg.send fightClub.join('\n')
