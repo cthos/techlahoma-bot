@@ -1,0 +1,15 @@
+[Tue May 20 2014 03:48:32 GMT+0000 (UTC)] ERROR Cannot load adapter irc - Error: Cannot find module 'hubot-irc'
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] WARNING The HUBOT_AUTH_ADMIN environment variable not set
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] INFO Data for brain retrieved from Redis
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] INFO NOTICE from undefined to *: *** Looking up your hostname...
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] INFO NOTICE from undefined to *: *** Checking Ident
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] INFO NOTICE from undefined to *: *** No Ident response
+[Tue May 20 2014 04:03:07 GMT+0000 (UTC)] INFO NOTICE from undefined to *: *** Found your hostname
+[Tue May 20 2014 04:03:13 GMT+0000 (UTC)] INFO amandaharlin_v2 has joined #techlahoma
+[Tue May 20 2014 04:03:47 GMT+0000 (UTC)] INFO #techlahoma <sidoaight> Matchless
+[Tue May 20 2014 04:04:36 GMT+0000 (UTC)] INFO #techlahoma <cthos> amandaharlin_v2: Tell amandaharlin Your bot is now alive, and the blog post is here: https://alextheward.com/content/techlahoma-chat-bot
+[Tue May 20 2014 04:04:49 GMT+0000 (UTC)] INFO #techlahoma <cthos> sidoaight++
+[Tue May 20 2014 04:04:56 GMT+0000 (UTC)] INFO #techlahoma <datachomp> nice
+[Tue May 20 2014 04:05:40 GMT+0000 (UTC)] INFO #techlahoma <datachomp> shouldn’t it be like  bmanda instead of  amanda?
+[Tue May 20 2014 04:06:05 GMT+0000 (UTC)] INFO #techlahoma <cthos> Eh, we can change its name later if we want
+[Tue May 20 2014 04:06:37 GMT+0000 (UTC)] INFO #techlahoma <datachomp> I’ll start the online petition
