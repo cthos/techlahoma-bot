@@ -23,7 +23,7 @@
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-irc": "^0.2.2",
-    "hubot-scripts": ">= 2.5.14",
+    "hubot-scripts": ">= 2.5.16",
     "underscore": "^1.6.0"
   },
   "engines": {
