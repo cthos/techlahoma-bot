@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n amandaharlin_v2 -d
+web: bin/hubot -a irc -n amandaharlin_v2
